@@ -2,7 +2,7 @@
 
 the code is for the paper Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis
 
-You can try just run the
+You can run the
 
 demo_RGB.m for RGB-IR image completion
 
